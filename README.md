@@ -15,7 +15,6 @@ ChangeLog:
 * 2014-09-22 added singly circular linked list and doubly circular linked list (Dikaimin)
 * 2014-09-22 added SliceDeque (Rizal)
 * 2014-10-02 added LinkBST (Dikaimin)
-* 2014-11-06 added RadixTree (Dikaimin)
 
 TODO:
 =====
